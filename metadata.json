@@ -1,0 +1,7 @@
+{
+  "name": "Kinetic Intelligence",
+  "description": "Crowd safety and AI-guided dynamic navigation platform for live concert and arena events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
